@@ -1,5 +1,5 @@
 import asyncio
-from py-tgcalls import idle
+from pytgcalls import idle
 from driver.veez import call_py, bot, user
 
 
